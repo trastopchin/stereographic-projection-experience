@@ -1,0 +1,7 @@
+Great job! The arrow gizmos allow you to translate the Riemann sphere along the x, y, or z axes.
+
+Now the other three overlayed gizmos are circles that allow you to rotate the Riemann sphere.
+
+To rotate the Riemann sphere, hover your mouse over one of the circle gizmos. When one of the circle gizmos is highlighted, you can left-click and drag your mouse to rotate the Riemann sphere along the axis of that gizmo.
+
+Why don't you give it a try. Using the inner colored cube to see what you are doing, rotate the Riemann sphere some "significant" amount.

@@ -1,0 +1,5 @@
+Great Job! Now you know how to rotate to look around.
+
+Before I talk about the blue sphere in front of you, you need to learn how to move.
+
+To move in the direction you are facing scroll the mouse wheel. Your next task will be to use the mouse wheel to move some "significant" distance.

@@ -1,0 +1,9 @@
+Great job! Hopefully that gave you some intuition about how stereographic projection works.
+
+Okay, so this is where we finally get to building Möbius transformations. One way we can define a Möbius transformation is by the composition of an inverse stereographic projection (from the plane to the Riemann sphere), translation and rotation of the Riemann sphere, and a stereographic projection (from the Riemann sphere to the plane).
+
+In this fashion we build a Möbius transformation which is a function from the plane to itself. Don't worry if you don't exactly understand what I'm describing, we are going to work through a couple of visual examples in just a moment.
+
+It turns out we can get a bit "loose" with the order of function composition we use to construct a Möbius transformation. We can perform an additional translation and rotation of the Riemann sphere before the inverse stereographic projection (from the plane to the Riemann sphere) and after the stereographic projection (from the Riemann sphere to the plane).
+
+In the rest of this experience you will interactively explore a few interesting properties of Möbius transformations. The first property you will explore is the fact that a Möbius transformation can send any circle in the plane to any other circle in the plane. Understanding this is the first step in building up to a "stronger" property of Möbius transformations.

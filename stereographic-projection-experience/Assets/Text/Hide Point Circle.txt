@@ -1,0 +1,5 @@
+Fantastic job! You just created your own Möbius transformation! :)
+
+One quick thing - be careful not to apply a stereographic projection when your circle is too close to the north pole of the Riemann sphere. This also applies when you might project your circle from the plane to the sphere - we can't have it end up too close to the north pole.
+
+No worries about having to handle that though! If you're circle is too close to the north pole, or will be too close to the north pole, you just won't be able to apply a stereographic projection.

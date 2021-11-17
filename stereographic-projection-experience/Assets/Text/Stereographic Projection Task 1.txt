@@ -1,0 +1,9 @@
+Great job!
+
+That blue sphere that you see in front of you is what we call a Riemann sphere. At the top of the Riemann sphere is a small metallic ball that marks the Riemann sphere's north pole.
+
+Like we mentioned before, stereographic projection takes points on the Riemann sphere to points on the plane. Given a point p of the Riemann sphere, we can construct a ray that starts at the north pole and goes through p. This ray intersects the real plane at some point q. We define the stereographic projection of the point p to be the point q.
+
+Don't worry if you don't exactly understand what I'm describing, we are going to work through a couple visual examples. Your next task will be to interact with an animation that visualizes stereographic projection. You will be able to place points on the Riemann sphere by hovering the mouse over the sphere and right-clicking. After placing a point p on the Riemann sphere, p will travel along the ray that starts at the north pole and goes through p until it intersects the plane at a point q.
+
+After the animation finishes you will left-click on the resulting point q to verify that you see where stereographic projection maps p to q. Good luck!

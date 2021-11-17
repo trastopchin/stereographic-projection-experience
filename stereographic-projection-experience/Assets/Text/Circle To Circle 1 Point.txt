@@ -1,0 +1,5 @@
+Wonderful job!
+
+Now let's continue building up to that "stronger" property of Möbius transformations I mentioned earlier. In your next task you will once again construct a Möbius transformation that takes the black player circle and to the yellow target circle. However, you will additionally need to make sure that a red point that is "stuck" to the black player circle gets sent to a corresponding red point "stuck" to the yellow target circle.
+
+So, in your next task you will construct a Möbius transformation that 1) takes the black player circle to the yellow target circle and 2) takes the red player point to the red target point. Good luck!

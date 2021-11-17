@@ -1,0 +1,5 @@
+Hello! Welcome to "A Stereographic Projection Experience." You can navigate through these text blocks using the "Back" and "Forward" buttons. Feel free to use the "Back" button to navigate to a previous slide at any point. When you are ready, click the "Forward" button to move to the next block.
+
+In this experience you will interactively build functions from the plane to itself known as Möbius transformations. You will build these functions geometrically by projecting the plane onto a sphere, translating and rotating the sphere, and then re-projecting the sphere back onto the plane.
+
+To start the experience, let's orient you. You will be an observer standing on the plane. You will be able to look around by left-clicking and dragging the mouse. Your first task will be to turn around and find a glowing sphere behind you. Click it! Press "Forward" to begin your task.

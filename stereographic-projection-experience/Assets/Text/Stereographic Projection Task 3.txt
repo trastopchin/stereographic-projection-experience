@@ -1,0 +1,7 @@
+Great job!
+
+We can also define the inverse stereographic projection which takes points on the plane to the Riemann sphere. Given a point q of the plane, we can construct a ray that starts at q and goes through the Riemann sphere's north pole. This ray intersects the Riemann sphere at some point p. We define the inverse stereographic projection of the point q to be the point p.
+
+I'll now ask you to complete the previous task, except instead of projecting a point from the Riemann sphere onto the plane, I'll ask you to project a point from the plane to the Riemann sphere.
+
+Just like before, you will right-click to place a point on the plane, and left-click on the resulting point p after the animation finishes. Good luck!

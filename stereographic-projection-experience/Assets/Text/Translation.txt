@@ -1,0 +1,9 @@
+Your next task will be to learn how to translate and rotate the Riemann sphere. Let's start with translation.
+
+Now the blue Riemann sphere in front of you looks a little different. Firstly, it has a colored cube at its center. This cube will help you visualize how you translate and rotate the Riemann sphere.
+
+Secondly, the Riemann sphere has a bunch of transparent gizmos overlayed on top of it. Three of these gizmos are arrows that allow you to translate the Riemann sphere.
+
+To translate the Riemann sphere, hover your mouse over one of arrow gizmos. When one of the arrow gizmos is highlighted, you can left-click and drag your mouse to translate the Riemann sphere along the axis of that gizmo.
+
+Why don't you give it a try. Move the Riemann sphere some "significant" distance away from where it currently floats.

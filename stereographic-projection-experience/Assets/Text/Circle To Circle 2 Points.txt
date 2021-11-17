@@ -1,0 +1,5 @@
+Wonderful job!
+
+Let's continue building up to that "stronger" property of Möbius transformations. You guessed it - in your next task, you are going to have to manage another point! Managing a circle and two points gets a bit harder, so I'm going it a bit easier to complete the task.
+
+To summarize, in your next task you will construct a Möbius transformation that 1) takes the black player circle to the yellow target circle, 2) takes the red player point to the red target point, and 3) takes the green player point to the green target point. Good luck!

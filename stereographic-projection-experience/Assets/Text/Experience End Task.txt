@@ -1,0 +1,5 @@
+Great job!
+
+It turns out that given any six points of the plane we can construct a Möbius transformation that takes the first three points to the last three points.  This is the "stronger" property of Möbius transformations we've been building up to. Isn't that cool?
+
+Thank you for engaging with "A Stereographic Projection Experience." Were there any moments of this experience that you enjoyed? Were there any moments of this experience where you feel you've learned something or gained a new intuition? Walking away from this experience we hope that you had fun playing with stereographic projection and Möbius transformations. :)

@@ -1,0 +1,3 @@
+Great job!
+
+To stereographically project the black player circle back onto the plane, press the W key. Give it a try!

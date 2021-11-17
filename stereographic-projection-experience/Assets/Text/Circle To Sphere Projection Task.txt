@@ -1,0 +1,5 @@
+Great job! Hopefully you've started to get the hang of translating and rotating the Riemann sphere.
+
+In your next task you will create a Möbius transformation. You will do this by performing some sequence of projections to and from the Riemann sphere interspersed with translations and rotations of the Riemann sphere.
+
+You already know how to translate and rotate the Riemann sphere (left-click and drag the gizmos!). In your next task you will see a black circle in front of you. To stereographically project the black circle onto the Riemann sphere, press the Q key. Give it a try!
