@@ -18,7 +18,6 @@ In the first half of the independent study I worked through about half of Dr. Ke
 ## Sources
 
 * [Möbius transformations revealed](https://marksmath.org/visualization/mobius_revealed/) - Mark McClure's online interactive version of the [Möbius Transformations Revealed](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf) animation.
-
 * [Algorithms](https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms) - A warm synth track created by Chad Crouch. Licensed under the [Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## License
